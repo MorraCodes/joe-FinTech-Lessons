@@ -23,6 +23,15 @@ __This will also be bold__    using the dunder
 
 [GitHub](http://github.com)
 
+
+
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
+
+
+
 \*literal asterisks\*
 
 
@@ -35,10 +44,18 @@ Format: ![Alt Text](https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/159841137_2
 
 <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/159841137_281247410037462_4799871305254331137_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=yf5_Z6ZriZEAX_u6sPt&_nc_ht=scontent-lga3-1.xx&oh=eaffbb9f7bd97fdae2e0a919a044b799&oe=615237A7" alt="drawing" width="200"/>
 
+- [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mentions, #refs, [links](), 
+**formatting**, and <del>tags</del> 
+supported
+- [x] list syntax required (any 
+unordered or 
 
 
-
-
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada: 
+:rocket: :metal: :octocat: 
 
 
 
