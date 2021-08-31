@@ -7,8 +7,9 @@ This is the markdown cheatsheet : https://guides.github.com/pdfs/markdown-cheats
 ### People
 * Joe
 * Omar
- * Teacher
- * Educator
+  
+  * Teacher
+  * Educator
 
 *This text will be italic*
 
