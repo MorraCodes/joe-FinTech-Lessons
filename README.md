@@ -23,6 +23,9 @@ __This will also be bold__    using the dunder
 
 [GitHub](http://github.com)
 
+\*literal asterisks\*
+
+
 > Greatness from small beginnings .
 
 
