@@ -26,7 +26,7 @@ __This will also be bold__    using the dunder
 \*literal asterisks\*
 
 
-> Greatness from small beginnings .
+> "Greatness from small beginnings."
 
 
 Format: ![Alt Text](https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/159841137_281247410037462_4799871305254331137_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=yf5_Z6ZriZEAX_u6sPt&_nc_ht=scontent-lga3-1.xx&oh=eaffbb9f7bd97fdae2e0a919a044b799&oe=615237A7)
