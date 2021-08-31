@@ -1,3 +1,31 @@
 # joe-FinTech-Lessons
-joe-FinTech-Lessons
-this is a repo for FinTech
+## joe-FinTech-Lessons
+<p> this is a repo for FinTech </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
