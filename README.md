@@ -1,10 +1,6 @@
-<h1> Joe fin tech col classes. </h1>
+<h2> Joe fin tech col classes. </h2>
 
-
-
-
-
-<p> this is a repo for FinTech </p>
+This is a repo for FinTech 
 
 This is the markdown cheatsheet : https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
