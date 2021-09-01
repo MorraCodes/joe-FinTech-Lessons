@@ -24,7 +24,14 @@ __This will also be bold__    using the dunder
 
 
 
-First Header | Second Header
+
+
+First Header | Second Header       
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
+
+Joe | Omar
 ------------ | -------------
 Content cell 1 | Content cell 2
 Content column 1 | Content column 2
