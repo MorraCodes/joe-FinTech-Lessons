@@ -1,8 +1,7 @@
 <h2> Joe fin tech col classes. </h2>
 
 This is a repo for FinTech 
-
-This is the markdown cheatsheet : https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+[ markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ### People
 * Joe
